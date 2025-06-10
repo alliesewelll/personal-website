@@ -32,6 +32,15 @@ body {
   .project {
     margin-bottom: 20px;
   }
+
+    .profile-pic {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%; /* Makes it a circle */
+      object-fit: cover;
+      display: block;
+      margin: 20px auto;
+    }
   
   footer {
     text-align: center;
